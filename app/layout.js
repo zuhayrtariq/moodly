@@ -27,10 +27,14 @@ export default function RootLayout({ children }) {
 
   const footer = (
     <footer className="p-4 sm:p-8 grid place-items-center">
-      <Link href={"https://youtu.be/lkjrUW8fI40"} target="_blank" className="">
+      <Link
+        href={"https://github.com/zuhayrtariq"}
+        target="_blank"
+        className=""
+      >
         <p
           className={
-            "text-primary-light duration-200 hover:text-white hover:bgprimary-light  " +
+            "text-primary-light duration-200 hover:text-white hover:bg-primary-light  " +
             fugaz.className
           }
         >
