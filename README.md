@@ -1,6 +1,6 @@
 # Moodly
 
-![Mood Tracker Logo](mood.png)
+![Mood Tracker Logo](mood-thumbnail.png)
 
 ## Table of Contents
 
